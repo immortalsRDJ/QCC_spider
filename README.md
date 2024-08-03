@@ -13,4 +13,4 @@
   
 ## Update Log：
 
-- Refined code and Recode it in VScode (Aug 3, 2024)
+- Refined code and Recoded it in VScode (Aug 3, 2024)
