@@ -1,7 +1,7 @@
 # QCC_spider
 
 - Pycharm请用basic_shareholder_info.py
-- VScode/Jupiter请用QCC_code文件中封装好的ipynb文件
+- VScode/Jupyter请用QCC_code文件中封装好的ipynb文件
 
 ## 目前已知bug：
 - qcc爬久了会被封号，开会员后一天能爬200条左右，不开会员30
