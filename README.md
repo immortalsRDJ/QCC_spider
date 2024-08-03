@@ -1,6 +1,6 @@
 # QCC_spider
 
-Pycharm请用basic_shareholder_info.py \\
+Pycharm请用basic_shareholder_info.py  \\
 VScode请用QCC_code文件中封装好的ipynb文件
 
 ## 目前已知bug：
