@@ -1,7 +1,7 @@
 # QCC_spider
 
-哎，写了个shi山出来，根本没有改的动力=。= 发github上鞭策下自己
-懒得封装，随便看吧
+Pycharm请用basic_shareholder_info.py
+VScode请用QCC_code文件中封装好的ipynb文件
 
 ## 目前已知bug：
 - qcc爬久了会被封号，开会员后一天能爬200条左右，不开会员30
@@ -11,3 +11,6 @@
 ## 可行解决方案：
 - 建立Cookie池，多要几个账号轮换
   
+## Update Log：
+
+- Refined code and Recode it in VScode (Aug 3, 2024)
