@@ -1,0 +1,5 @@
+PyExecJS
+beautifulsoup4
+lxml
+openpyxl
+furl
