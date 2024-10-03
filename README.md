@@ -25,4 +25,9 @@ pip install -r requirements.txt
 
 ---
 
-Last update: Sep 11, 2024
+- ***main.py***: synchronous scraper 
+- ***Layer3_spider.py***: asynchronous scraper which could get 3 layers of basic and shareholder in a row.
+
+---
+
+*Last update: Oct 2, 2024*
